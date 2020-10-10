@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  background-image: linear-gradient(
+    102.3deg,
+    rgba(147, 39, 143, 1) 5.9%,
+    rgba(234, 172, 232, 1) 64%,
+    rgba(246, 219, 245, 1) 89%
+  );
+}
+#main {
+  width: 720px;
+  height: 495px;
+  background-image: radial-gradient(
+    circle farthest-corner at 10% 20%,
+    rgba(243, 94, 131, 1) 17.1%,
+    rgba(236, 212, 80, 1) 89.7%
+  );
+}
+#secmain {
+  background-image: url(lovequote.png);
+  float: right;
+  height: 500px;
+  width: 590px;
+}
+div.stylea {
+  height: 125px;
+  width: 200px;
+  align-content: center;
+  font-size: 110px;
+  font-family: Edwardian Script ITC;
+  color: rgb(102, 28, 238);
+}
+div.border {
+  border-style: groove;
+  border-width: 20px;
+  border-image: linear-gradient(225deg, #ff3cac 0%, #784ba0 50%, #2b86c5 100%);
+}
+div.box1 {
+  background-image: linear-gradient(
+    110.6deg,
+    rgba(179, 157, 219, 1) 7%,
+    rgba(150, 159, 222, 1) 47.7%,
+    rgba(24, 255, 255, 1) 100.6%
+  );
+  text-align: center;
+}
+div.box2 {
+  background-image: linear-gradient(
+    109.6deg,
+    rgba(238, 58, 136, 1) 11.2%,
+    rgba(128, 162, 245, 1) 91.1%
+  );
+  margin-left: 240px;
+}
+div.box3 {
+  background-color: #fbda61;
+  background-image: linear-gradient(45deg, #fbda61 0%, #ff5acd 100%);
+  margin-left: 480px;
+}
+h1 {
+  font-family: Bradley Hand ITC;
+  font-weight: 1200px;
+  color: #e2bfb9;
+}
